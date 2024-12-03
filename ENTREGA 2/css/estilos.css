@@ -1,0 +1,30 @@
+/* General */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Header */
+  header {
+    background-image: linear-gradient(to right, #007bff, #0056b3);
+  }
+  
+  /* Navbar */
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+  
+  /* Main content */
+  img {
+    max-height: 400px;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #222;
+  }
+  
